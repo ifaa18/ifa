@@ -9,7 +9,11 @@
 
 .card {
 	width: 18rem;
-	margin: 10px;
+	margin: 30px;
+}
+
+.card:hover{
+  transform: scale(1.03);
 }
 
 #tabkontak{
